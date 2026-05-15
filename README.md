@@ -13,7 +13,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 - [Frontend](#frontend)
   * [JavaScript](#javascript)
     + [All via WebComponents](#all-via-webcomponents)
-    + [Angular](#angular)
+    + [Angular](#angular)Dara Sok 
     + [Ember.js](#emberjs)
     + [Plain JS reference](#plain-js-reference)
     + [Preact](#reactjs)
